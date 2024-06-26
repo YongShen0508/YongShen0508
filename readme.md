@@ -3,6 +3,6 @@
 > :snowflake:Bachelor degree in Computer Science\
 > :zzz:Sleep well and ..\
 > :whale:Enjoy my life
-<div>
+<div align="center">
   <img src="https://www.lifeinthefingerlakes.com/wp-content/uploads/2017/03/snow-crystals.jpg" alt="snowflake" width="400" height="300">
 </div>
