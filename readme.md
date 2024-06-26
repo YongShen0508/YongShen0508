@@ -1,5 +1,6 @@
 > :penguin:**hey im yon shen**\
-> Bachelor degree in Computer Science\
+> :mortar_board: studying in UTAR\
+> :snowflake:Bachelor degree in Computer Science\
 > :zzz:
 >
 > 
