@@ -4,5 +4,5 @@
 > :zzz:Sleep well and ..\
 > :whale:Enjoy my life
 <div align="center">
-  <img src="https://www.lifeinthefingerlakes.com/wp-content/uploads/2017/03/snow-crystals.jpg" alt="snowflake" width="700" height="500">
+  <img src="https://www.lifeinthefingerlakes.com/wp-content/uploads/2017/03/snow-crystals.jpg" alt="snowflake" width="600" height="450">
 </div>
