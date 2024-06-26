@@ -1,5 +1,4 @@
-> **hey im yon shen**
-> \newline
+> **hey im yon shen**\
 > Bachelor degree in Computer Science
 > :zzz: 
 >
